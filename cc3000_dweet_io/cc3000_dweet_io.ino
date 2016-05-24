@@ -22,8 +22,8 @@ Adafruit_CC3000 cc3000 = Adafruit_CC3000(ADAFRUIT_CC3000_CS, ADAFRUIT_CC3000_IRQ
 DHT dht(DHTPIN, DHTTYPE);
 
 // WLAN parameters
-#define WLAN_SSID       "paras"
-#define WLAN_PASS       "parasvohra966"
+#define WLAN_SSID       "enter user user name"
+#define WLAN_PASS       "enter password"
 #define WLAN_SECURITY   WLAN_SEC_WPA2
 
 // Dweet parameters
